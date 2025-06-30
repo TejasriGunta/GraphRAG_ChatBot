@@ -1,5 +1,5 @@
 import streamlit as st
-from rag import get_query_and_response as get_response
+from harry_potter_graphrag import get_query_and_response as get_response
 
 st.title("🧙 Harry Potter ChatBot")
 st.caption("Ask a question about *Harry Potter and the Prisoner of Azkaban*.")
