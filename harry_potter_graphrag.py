@@ -42,7 +42,7 @@ graph = Neo4jGraph(
 
 llm_openai = ChatOpenAI(
     temperature=0,
-    model="gpt-4o",  # faster and cheaper than gpt-4
+    model="gpt-4o",
     openai_api_key=os.getenv("OPENAI_API_KEY")
 )
 
