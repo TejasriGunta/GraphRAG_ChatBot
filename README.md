@@ -1,4 +1,4 @@
-![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/b3421a91-40e7-43cc-b0c3-657827d6a75b)## GraphRAG_ChatBot
+## GraphRAG_ChatBot
 harry potter chatbot which answers questions using a knowledge graph
 
 This project is an interactive chatbot that answers questions about *Harry Potter and the Prisoner of Azkaban* by combining:
