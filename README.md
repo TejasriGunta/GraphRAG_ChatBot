@@ -11,7 +11,7 @@ The chatbot allows users to explore the book deeply while understanding connecti
 
 Demo run-
 
-![Uploading Untitled video - Made with Clipchamp.gif…]()
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/479dfb87-449f-48a9-a12c-98e86911f9ca)
 
 
 # What is a Knowledge Graph?
