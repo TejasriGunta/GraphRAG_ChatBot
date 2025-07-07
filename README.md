@@ -1,4 +1,4 @@
-## GraphRAG_ChatBot
+## GraphRAG ChatBot
 harry potter chatbot which answers questions using a knowledge graph
 
 This project is an interactive chatbot that answers questions about *Harry Potter and the Prisoner of Azkaban* by combining:
