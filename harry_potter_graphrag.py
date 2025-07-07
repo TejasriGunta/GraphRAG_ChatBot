@@ -67,8 +67,7 @@ You are given:
 ### Question:
 {question}
 
-Use both the book context and graph knowledge to answer in under 150 words. If one of them is missing, use the other.
-Respond creatively like a wizard from Hogwarts!
+Use both the book context and graph knowledge to answer in under 150 words. If one of them is missing, use the other
 """
 )
 
